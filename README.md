@@ -55,17 +55,37 @@ Command-line interface (CLI) for interaction
 
 🚀 Getting Started
 
-1. Clone the repository
+Option A: Using Terminal (cross‑platform)
 
-git clone https://github.com/your-username/Simple-Banking-Mangement-System.git
+Clone the repository
 
-2. Compile the program
+git clone git@github.com:HAJS78/Simple-Banking-Mangement-System.git
 
-g++ main.cpp -o BankSystem
+Compile the program
 
-3. Run the executable
+g++ course_8_Project_1.cpp -o BankSystem
+
+This compiles the source file into an executable named BankSystem.
+
+Run the executable
 
 ./BankSystem
+
+This launches the text‑based banking system in your terminal.
+
+Option B: Using Visual Studio (Windows workflow)
+
+Clone the repository (same as above).
+
+Open the solution file
+
+Navigate to the project folder.
+
+Double‑click course_8_Project_1.sln or open it from within Visual Studio.
+
+Build and run inside Visual Studio
+
+
 
 ## 🖼️ Screenshots
 
