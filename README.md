@@ -76,7 +76,7 @@ g++ main.cpp -o BankSystem
 ![Main Screen](screenShots/Main_Screen.png)
 
 ### Show Clients List Screen
-![Clients List Screen](screenShots/Showing_Clients_List.png)
+![Clients List Screen](screenShots/ShowingClientsList.png)
 
 ### Find Client Record Screen
 ![Looking Up Client Account](screenShots/Looking_Up_Client_Account.png)
