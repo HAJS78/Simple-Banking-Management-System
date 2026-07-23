@@ -1,0 +1,49 @@
+# ==========================================
+# C++ / Visual Studio Executables & Output
+# ==========================================
+*.exe
+*.out
+*.app
+*.o
+*.obj
+*.ilk
+*.ipdb
+*.iobj
+
+# ==========================================
+# Visual Studio & IDE Environment Files
+# ==========================================
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.vscode/
+
+# ==========================================
+# Build Directories
+# ==========================================
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+x64/
+x86/
+
+# ==========================================
+# Temporary & Log Files
+# ==========================================
+*.pdb
+*.cache
+*.log
+*.vsidx
+*.tmp
+*.swp
+
+# ==========================================
+# Allow-list Exceptions
+# ==========================================
+!screenShots/
+!README.md
+!LICENSE
